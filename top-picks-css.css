@@ -1,0 +1,62 @@
+@font-face {
+    font-family: koulen;
+    src: url(assets/koulen.ttf);
+    font-weight:bold;
+}
+
+@font-face {
+    font-family: playfair;
+    src: url(assets/PlayfairDisplay-Regular.ttf);
+    font-weight:bold;
+}
+
+
+html {
+    /* justify-content: center; */
+    max-width:100%;
+    overflow-x: hidden;
+}
+#title{
+    scroll-margin-top: 55px;
+}
+body {
+    background-color: #FFF8E8;
+    padding-top:55px;
+}
+
+h1 {
+    font-family: playfair;
+    color:#A53860;
+    font-size: 9vw;
+}
+
+h2 {
+    font-family: playfair;
+    color:#A53860;
+    font-size: 5vw;
+}
+
+p {
+    font-family: playfair;
+    color:#161925;
+    font-size: 2vw;
+}
+a {
+    font-family: koulen;
+    color:#235789;
+    font-size: 2vw;
+}
+
+a:hover{
+    color:#A53860;
+}
+.custom-border1 {
+    border:15px solid #E8AAAF;
+}
+.custom-border2 {
+    border:15px solid #235789;
+}
+.custom-border3 {
+    border:10px solid #A53860;
+}
+
