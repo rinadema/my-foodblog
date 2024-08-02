@@ -6,7 +6,7 @@ const imageSources_alb = [
     'assets/country-outlines/color-albania.png',
     'assets/albania/alb_pesto_shrimp.JPG',
     'assets/albania/alb-tiramisu.JPG',
-    'assets/albania/alb-shrimp-scallop.JPG'
+    'assets/albania/alb-shrimp-scallop.jpg'
 ]
 
 const descript_alb = [
@@ -38,9 +38,9 @@ const ks_img = document.getElementById('kosovo_img');
 const ks_text = document.getElementById('kosovo-text')
 const imageSources_ks = [
     'assets/country-outlines/color-kosovo.png',
-    'assets/kosovo/kosove-croissants.JPG',
-    'assets/kosovo/kosovo-pizza.JPG',
-    'assets/kosovo/kosovo-oreo.JPG'
+    'assets/kosovo/kosove-croissants.jpg',
+    'assets/kosovo/kosovo-pizza.jpg',
+    'assets/kosovo/kosovo-oreo.jpg'
 ]
 
 const descript_ks = [
